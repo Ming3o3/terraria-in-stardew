@@ -1,0 +1,26 @@
+# Local toolchains and generated build output.
+.tools/
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Local game installations and external reference repositories.
+/Stardew Valley/
+/Terraria/
+/tModLoader/
+/universal-modder/
+/其他人移植的参考游戏实例/
+
+# OS metadata and Python cache files.
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local game captures and scratch data.
+captures/
+scratch/
+*.mkv
+*.audio.raw
+bridge-state.json
+bridge-state.json.tmp

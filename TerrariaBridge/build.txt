@@ -1,0 +1,6 @@
+displayName = Terraria in Stardew Bridge
+author = Codex
+version = 0.1.0
+description = Connects Terraria to the local Stardew Valley bridge for portal events.
+homepage = https://example.invalid/terraria-in-stardew
+noCompile = false

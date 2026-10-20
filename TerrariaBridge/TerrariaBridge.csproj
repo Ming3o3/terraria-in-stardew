@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Nullable>enable</Nullable>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>12.0</LangVersion>
+    <TmlInstallDir Condition="'$(TmlInstallDir)' == '' and Exists('$(HOME)/Library/Application Support/Steam/steamapps/common/tModLoader/tMLMod.targets')">$(HOME)/Library/Application Support/Steam/steamapps/common/tModLoader</TmlInstallDir>
+    <TmlInstallDir Condition="'$(TmlInstallDir)' == ''">$(MSBuildThisFileDirectory)../tModLoader</TmlInstallDir>
+  </PropertyGroup>
+  <Import Project="$(TmlInstallDir)/tMLMod.targets" />
+</Project>

@@ -1,0 +1,22 @@
+{
+  "scene-item-out-of-reach": "Target is out of reach.",
+  "scene-item-axe-target": "trees or stumps",
+  "scene-item-pick-target": "breakable map tiles, rocks, ore nodes, or mine boulders",
+  "scene-item-tool-no-effect": "'{{item}}' did not mine a map tile or affect a Stardew target at {{x}},{{y}}. Aim at Stardew {{target}} within six tiles.",
+  "scene-item-axe-no-effect": "'{{item}}' had no effect at {{x}},{{y}}. Aim at Stardew {{target}} within six tiles; axes do not mine map tiles.",
+  "scene-item-tile-protected": "A character, animal, object, building, warp, or crop occupies tile {{x}},{{y}}.",
+  "scene-item-map-tile-mined": "'{{item}}' mined a map tile at {{x}},{{y}} and dropped Stone.",
+  "scene-item-map-tile-protected": "Tile {{x}},{{y}} is occupied or protected by a map action, warp, building, or mining rule.",
+  "scene-item-furniture-protected": "'{{furniture}}' is occupied or protected and can't be removed.",
+  "scene-item-furniture-not-empty": "Remove the items on or inside '{{furniture}}' before picking it up.",
+  "scene-item-furniture-inventory-full": "Your inventory is full; '{{furniture}}' was not removed.",
+  "scene-item-furniture-removed": "Picked up '{{furniture}}' into the Stardew inventory.",
+  "scene-item-furniture-dropped": "'{{furniture}}' was dropped nearby because the Stardew inventory filled up.",
+  "scene-item-furniture-removal-pending": "Checking whether '{{furniture}}' can be safely removed.",
+  "scene-item-grapple-out-of-range": "Grapple target is out of range (12 tiles).",
+  "scene-item-grapple-too-close": "The grapple target is too close to pull toward.",
+  "scene-item-grapple-blocked": "The grapple path is blocked, so the farmer could not be pulled.",
+  "scene-item-grapple-pulled": "'{{item}}' pulled the farmer toward the target.",
+  "scene-item-monster-not-hit": "'{{item}}' did not hit a Stardew monster at the cursor. Aim at a living monster within six tiles.",
+  "scene-item-not-mapped": "Terraria item '{{item}}' has no Stardew interaction mapping yet."
+}

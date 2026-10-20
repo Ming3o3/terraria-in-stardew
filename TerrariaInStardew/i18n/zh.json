@@ -1,0 +1,22 @@
+{
+  "scene-item-out-of-reach": "目标超出六格作用范围。",
+  "scene-item-axe-target": "树木或树桩",
+  "scene-item-pick-target": "可挖地图瓦片、石头、矿点或矿洞大石块",
+  "scene-item-tool-no-effect": "“{{item}}”在坐标 {{x}},{{y}} 没有挖掉地图瓦片或触发星露谷工具动作。请在六格内瞄准{{target}}。",
+  "scene-item-axe-no-effect": "“{{item}}”在星露谷坐标 {{x}},{{y}} 没有生效。请在六格内瞄准{{target}}；斧头不能挖地图瓦片。",
+  "scene-item-tile-protected": "坐标 {{x}},{{y}} 被角色、动物、物件、作物、建筑或传送点占用，无法挖掘。",
+  "scene-item-map-tile-mined": "“{{item}}”挖掉了坐标 {{x}},{{y}} 的地图瓦片，并掉落了石头。",
+  "scene-item-map-tile-protected": "坐标 {{x}},{{y}} 被角色、动物、物件、建筑、传送点、作物或地图保护属性占用，无法挖掘。",
+  "scene-item-furniture-protected": "家具“{{furniture}}”正在使用或受保护，无法拆除。",
+  "scene-item-furniture-not-empty": "请先取出家具“{{furniture}}”内部或上方的物品，再收起家具。",
+  "scene-item-furniture-inventory-full": "背包已满，家具“{{furniture}}”没有被拆除。",
+  "scene-item-furniture-removed": "已收起家具“{{furniture}}”，并放入星露谷背包。",
+  "scene-item-furniture-dropped": "背包空间不足，家具“{{furniture}}”已掉落在附近。",
+  "scene-item-furniture-removal-pending": "正在检查能否安全收起家具“{{furniture}}”。",
+  "scene-item-grapple-out-of-range": "抓钩目标超出十二格范围。",
+  "scene-item-grapple-too-close": "目标太近，抓钩无法拉动农夫。",
+  "scene-item-grapple-blocked": "抓钩路径被障碍挡住，无法拉动农夫。",
+  "scene-item-grapple-pulled": "“{{item}}”将农夫拉向了目标。",
+  "scene-item-monster-not-hit": "“{{item}}”没有命中光标处的星露谷怪物。请将鼠标移到活着的怪物身上，并保持在六格范围内。",
+  "scene-item-not-mapped": "泰拉瑞亚物品“{{item}}”目前还没有星露谷交互映射。"
+}

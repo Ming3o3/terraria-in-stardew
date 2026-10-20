@@ -1,0 +1,9 @@
+{
+  "Name": "Terraria in Stardew Valley",
+  "Author": "Codex",
+  "Version": "0.1.0",
+  "Description": "Adds Terraria scene fusion and mapped item interactions to Stardew Valley.",
+  "UniqueID": "Codex.TerrariaInStardew",
+  "EntryDll": "TerrariaInStardew.dll",
+  "MinimumApiVersion": "4.5.0"
+}
